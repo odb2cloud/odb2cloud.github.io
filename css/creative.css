@@ -37,11 +37,11 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
-#homeHeading {
+h1.homeHeading {
   font-family:'Gill Sans';
   color: white;
 }
-#homeTagline {
+header .header-content .header-content-inner p.homeTagline {
   color: white;
 }
 p {
